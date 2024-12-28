@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Outfit", sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.app {
+    min-height: 100vh;
+    background: var(--background-gradient);
+    color: var(--text-color);
+}
+
+:root {
+    --background-gradient: linear-gradient(#0b004e, #1d152f, #002834);
+    --text-color: white;
+    --link-color: inherit;
+}
+
+body.light-mode {
+    --background-gradient: linear-gradient(#ffffff, #f0f0f0, #d9d9d9);
+    --text-color: #333;
+    --link-color: #0066cc;
+}
+
+body.dark-mode {
+    --background-gradient: linear-gradient(#0b004e, #1d152f, #002834);
+    --text-color: white;
+    --link-color: inherit;
+}
