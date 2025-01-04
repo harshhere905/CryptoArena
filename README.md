@@ -4,7 +4,7 @@ Welcome to CryptoArena! CryptoArena is a web application designed to help users 
 
 ## Live Demo
 
-You can check out the live version of FitForge [here](https://crypto-arena-grand.netlify.app/).
+You can check out the live version of CryptoArena [here](https://crypto-arena-grand.netlify.app/).
 
 ## Technologies Used
 
