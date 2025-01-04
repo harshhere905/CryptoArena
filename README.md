@@ -1,4 +1,4 @@
-# FitForge
+# CryptoArena
 
 Welcome to CryptoArena! CryptoArena is a web application designed to help users to check the latest prices of cryptocurrencies and monitor the changes in their prices in an engaging and user-friendly way.
 
